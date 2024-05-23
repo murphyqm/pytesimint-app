@@ -1,6 +1,6 @@
 matplotlib
 numpy
-python==3.9
+python
 scipy
 seaborn
 streamlit
