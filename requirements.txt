@@ -1,6 +1,5 @@
 matplotlib
 numpy
-python
 scipy
 seaborn
 streamlit
