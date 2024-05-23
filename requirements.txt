@@ -1,0 +1,6 @@
+matplotlib
+numpy
+python==3.9
+scipy
+seaborn
+streamlit
